@@ -1,0 +1,18 @@
+{
+  "name": "panacee",
+  "version": "0.0.1",
+  "description": "Bot discord",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Shi / Kaito",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.40",
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3"
+  }
+}
